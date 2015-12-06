@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F39814131C1336DB00A9ED3F /* cyoufu.png in Resources */ = {isa = PBXBuildFile; fileRef = F39814111C1336DB00A9ED3F /* cyoufu.png */; };
-		F39814141C1336DB00A9ED3F /* minatoku.png in Resources */ = {isa = PBXBuildFile; fileRef = F39814121C1336DB00A9ED3F /* minatoku.png */; };
-		F3FA597E1C0F6E2700D40D6F /* flower1.png in Resources */ = {isa = PBXBuildFile; fileRef = F3FA597A1C0F6E2700D40D6F /* flower1.png */; };
-		F3FA597F1C0F6E2700D40D6F /* flower2.png in Resources */ = {isa = PBXBuildFile; fileRef = F3FA597B1C0F6E2700D40D6F /* flower2.png */; };
-		F3FA59801C0F6E2700D40D6F /* flower3.png in Resources */ = {isa = PBXBuildFile; fileRef = F3FA597C1C0F6E2700D40D6F /* flower3.png */; };
+		F3F5691F1C14716E009687E7 /* cyoufu.png in Resources */ = {isa = PBXBuildFile; fileRef = F3F5691A1C14716E009687E7 /* cyoufu.png */; };
+		F3F569201C14716E009687E7 /* minatoku.png in Resources */ = {isa = PBXBuildFile; fileRef = F3F5691B1C14716E009687E7 /* minatoku.png */; };
+		F3F569271C147293009687E7 /* flower1.png in Resources */ = {isa = PBXBuildFile; fileRef = F3F569241C147293009687E7 /* flower1.png */; };
+		F3F569281C147293009687E7 /* flower2.png in Resources */ = {isa = PBXBuildFile; fileRef = F3F569251C147293009687E7 /* flower2.png */; };
+		F3F569291C147293009687E7 /* flower3.png in Resources */ = {isa = PBXBuildFile; fileRef = F3F569261C147293009687E7 /* flower3.png */; };
 		F3FFF1C31C0DCB2000B67852 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F3FFF1C21C0DCB2000B67852 /* main.m */; };
 		F3FFF1C61C0DCB2000B67852 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F3FFF1C51C0DCB2000B67852 /* AppDelegate.m */; };
 		F3FFF1C91C0DCB2000B67852 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F3FFF1C81C0DCB2000B67852 /* ViewController.m */; };
@@ -21,11 +21,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F39814111C1336DB00A9ED3F /* cyoufu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cyoufu.png; path = "../../sozai/techacademy/tokyo_icon/名称変更/cyoufu.png"; sourceTree = "<group>"; };
-		F39814121C1336DB00A9ED3F /* minatoku.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = minatoku.png; path = "../../sozai/techacademy/tokyo_icon/名称変更/minatoku.png"; sourceTree = "<group>"; };
-		F3FA597A1C0F6E2700D40D6F /* flower1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = flower1.png; path = ../../sozai/techacademy/flower_images/flower1.png; sourceTree = "<group>"; };
-		F3FA597B1C0F6E2700D40D6F /* flower2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = flower2.png; path = ../../sozai/techacademy/flower_images/flower2.png; sourceTree = "<group>"; };
-		F3FA597C1C0F6E2700D40D6F /* flower3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = flower3.png; path = ../../sozai/techacademy/flower_images/flower3.png; sourceTree = "<group>"; };
+		F3F5691A1C14716E009687E7 /* cyoufu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cyoufu.png; path = SlideshowApp/slideshow_gazo/cyoufu.png; sourceTree = "<group>"; };
+		F3F5691B1C14716E009687E7 /* minatoku.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = minatoku.png; path = SlideshowApp/slideshow_gazo/minatoku.png; sourceTree = "<group>"; };
+		F3F569241C147293009687E7 /* flower1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = flower1.png; path = SlideshowApp/slideshow_gazo/flower1.png; sourceTree = "<group>"; };
+		F3F569251C147293009687E7 /* flower2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = flower2.png; path = SlideshowApp/slideshow_gazo/flower2.png; sourceTree = "<group>"; };
+		F3F569261C147293009687E7 /* flower3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = flower3.png; path = SlideshowApp/slideshow_gazo/flower3.png; sourceTree = "<group>"; };
 		F3FFF1BE1C0DCB2000B67852 /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3FFF1C21C0DCB2000B67852 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F3FFF1C41C0DCB2000B67852 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -54,11 +54,11 @@
 			children = (
 				F3FFF1C01C0DCB2000B67852 /* SlideshowApp */,
 				F3FFF1BF1C0DCB2000B67852 /* Products */,
-				F3FA597A1C0F6E2700D40D6F /* flower1.png */,
-				F3FA597B1C0F6E2700D40D6F /* flower2.png */,
-				F3FA597C1C0F6E2700D40D6F /* flower3.png */,
-				F39814111C1336DB00A9ED3F /* cyoufu.png */,
-				F39814121C1336DB00A9ED3F /* minatoku.png */,
+				F3F5691A1C14716E009687E7 /* cyoufu.png */,
+				F3F5691B1C14716E009687E7 /* minatoku.png */,
+				F3F569241C147293009687E7 /* flower1.png */,
+				F3F569251C147293009687E7 /* flower2.png */,
+				F3F569261C147293009687E7 /* flower3.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -151,14 +151,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F3FA59801C0F6E2700D40D6F /* flower3.png in Resources */,
-				F3FA597E1C0F6E2700D40D6F /* flower1.png in Resources */,
-				F39814131C1336DB00A9ED3F /* cyoufu.png in Resources */,
+				F3F569291C147293009687E7 /* flower3.png in Resources */,
+				F3F569271C147293009687E7 /* flower1.png in Resources */,
+				F3F5691F1C14716E009687E7 /* cyoufu.png in Resources */,
+				F3F569281C147293009687E7 /* flower2.png in Resources */,
 				F3FFF1D11C0DCB2000B67852 /* LaunchScreen.storyboard in Resources */,
-				F3FA597F1C0F6E2700D40D6F /* flower2.png in Resources */,
+				F3F569201C14716E009687E7 /* minatoku.png in Resources */,
 				F3FFF1CE1C0DCB2000B67852 /* Assets.xcassets in Resources */,
 				F3FFF1CC1C0DCB2000B67852 /* Main.storyboard in Resources */,
-				F39814141C1336DB00A9ED3F /* minatoku.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
